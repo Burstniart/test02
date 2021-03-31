@@ -1,3 +1,8 @@
 adding one more file too
 perfect, now pull once more the file from git
 i see the changes, pushing it back to you
+order of steps followed:
+1 edit file
+2 state changes
+3 commit
+4 push
